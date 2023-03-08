@@ -18,3 +18,5 @@ The notebooks called: economy_Russia.ipynb, education_RF.ipynb, health_RF.ipynb,
 The notebook: happiness connects a number of tourist departures and happiness index.
 
 Before the use of all the datasets, the cleaning on the data was applied.
+
+I also included presentation of the project: Natalia_Sudarchikova.pptx
